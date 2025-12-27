@@ -24,7 +24,7 @@ A fast-paced 3D endless runner where you guide a hamster through an obstacle cou
 
 ## Video Demo
 
-[Watch gameplay video](game-demo-mobile.mov)
+[Watch gameplay video](https://www.canva.com/design/DAG8jr2yNso/cn3QFOcBMN9nYqdni1hpoQ/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCaFdtMExQeHJLTGs1S2oifX19)
 
 ## Features
 
